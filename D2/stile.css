@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.contenedor-imagenes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contenedor-imagenes img {
+    margin: 50px;
+  }
+  .contenedor-imagenes input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+

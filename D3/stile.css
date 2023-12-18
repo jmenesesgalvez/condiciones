@@ -1,0 +1,23 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.opciones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+} 
+
+.verificar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+p {
+    text-align: center;
+}
